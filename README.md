@@ -21,3 +21,4 @@ Watch patterns emerge as the grid updates every generation.
 
 Adjust the grid size by modifying the block_count variable in the code.
 
+![image](https://github.com/user-attachments/assets/fef52641-ac57-4071-a8e0-248253654c77)
